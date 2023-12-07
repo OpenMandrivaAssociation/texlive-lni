@@ -1,6 +1,6 @@
 Name:		texlive-lni
-Version:	58061
-Release:	2
+Version:	68984
+Release:	1
 Summary:	Official class for the "Lecture Notes in Informatics"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lni
