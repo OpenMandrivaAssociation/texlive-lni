@@ -1,5 +1,5 @@
 Name:		texlive-lni
-Version:	68984
+Version:	69361
 Release:	1
 Summary:	Official class for the "Lecture Notes in Informatics"
 Group:		Publishing
