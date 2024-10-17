@@ -3,7 +3,7 @@ Version:	71883
 Release:	1
 Summary:	Official class for the "Lecture Notes in Informatics"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lni
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lni
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lni.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lni.doc.r%{version}.tar.xz
